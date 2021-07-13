@@ -4,7 +4,7 @@ const COMMANDS = {
     help:
       'Commands: <span class="code">about</span>, <span class="code">edu</span>, <span class="code">skills</span>, <span class="code">proj</span>, <span class="code">contact</span>, <span class="code">ltc</span>',
       proj:
-      "<a href='https://www.instagram.com/load_thecode/' class='success link'>My Community of 8K+ Hackers and Programmers</a>, <br> \
+      "<a href='https://www.instagram.com/load_thecode/' class='success link'>My Community of 20K+ Hackers and Programmers</a>, <br> \
       <a href='https://github.com/load-the-code/pyminer' class='success link'>Python Bitcoin Miner</a>, <br> \
       <a href='https://github.com/guitaruser/guitaruser' class='success link'>Python mini Projects</a>, <br> \
       <a href='https://github.com/load-the-code/trigonometry-graph-GUI' class='success link'>Trignometry Graph Plotter</a><br>",
