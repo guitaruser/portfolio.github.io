@@ -1,7 +1,7 @@
 const COMMANDS = {
     id:
       'uid=0(root) gid=0(root) groups=0(root)',
-    help:
+    help, help,help , help :
       'Commands: <span class="code">about</span>, <span class="code">edu</span>, <span class="code">skills</span>, <span class="code">proj</span>, <span class="code">contact</span>, <span class="code">ltc</span>',
       proj:
       "<a href='https://www.instagram.com/load_thecode/' class='success link'>My Community of 20K+ Hackers and Programmers</a>, <br> \
